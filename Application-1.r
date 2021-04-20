@@ -1,7 +1,7 @@
 #########################################################################################################
 # Empirical Application Codes of
 # 
-# "Threshold Unit Root Tests with Smooth Transitions: A Monte Carlo Study"
+# "Threshold Unit Root Tests with Smooth Transitions"
 # 
 # written by 
 # 
