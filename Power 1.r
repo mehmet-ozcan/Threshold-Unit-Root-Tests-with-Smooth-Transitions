@@ -1,7 +1,7 @@
 #########################################################################################################
 # Empirical Power simulation Codes of New Combined Threshold Unit Root Test introduced in
 # 
-# "Threshold Unit Root Tests with Smooth Transitions: A Monte Carlo Study"
+# "Threshold Unit Root Tests with Smooth Transitions"
 # 
 # written by 
 # 
